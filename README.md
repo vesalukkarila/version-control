@@ -19,7 +19,7 @@ main        A - D - E       A - D - E - (merge commit)
 ```
 ### 3. Rebase
 Moves foo to point to the latest commit on main
-- ** Do not rebase on public branches, only on private **
+- **Do not rebase on public branches, only on private** 
 
 ```plaintext
 foo            B - C                  B - C
