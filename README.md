@@ -23,6 +23,7 @@ main        A - D - E       A - D - E - (merge commit)
 Moves foo to point to the latest commit on main
 - **Do not rebase on public branches, only on private**
 - On branch foo: git rebase main
+- if need to push to remote repo: git push --force
 
 ```plaintext
 foo            B - C                  B - C
