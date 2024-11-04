@@ -34,7 +34,9 @@ main        A - D - E      A - D - E
 ## Memos
 #### Resolving conflicts
 git pull --no-rebase (git config pull.rebase false): merge and resolve conflicts manually if any  
-- this will create a merge commit, which will have two parents  
+- this will create a merge commit, which will have two parents
+
 git pull --rebase (git config pull.rebase true): rebase and resolve conflicts manually if any  
-- rebases local commits on top of the remote changes, rewrites commits history  
+- rebases local commits on top of the remote changes, rewrites commits history
+
 git pull --ff-only (git config pull.ff only): fails if divergents changes, no merge or rebase will occur  
