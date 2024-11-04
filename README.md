@@ -16,4 +16,14 @@ Best common ancestor exists, a merge commit will be created and it will have two
 foo             B - C           B - C 
               /         =>    /       \
 main        A - D - E       A - D - E - (merge commit)
+```
+### 3. Rebase
+Moves foo to point to the latest commit on main
+- ** Do not rebase on public branches, only on private **
+
+```plaintext
+foo            B - C                  B - C
+             /         =>           /
+main        A - D - E      A - D - E
+```
 
