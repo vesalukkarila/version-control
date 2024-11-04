@@ -2,7 +2,7 @@
 Completed FrontendMasters's wonderful course "Everything you'll need to know about GIT", held by The Primeagen. 
 https://frontendmasters.com/courses/everything-git/  
 This repository serves as a notebook for course-related notes and an enviroment for practicing skills with Git and Github.  
-In the style of "Learn in public" this repository's branches also contain experimental attempts and unsuccessful trials.  
+In the style of "Learn in public" this repository's branches also contain experimental attempts and unsuccessful trials. 
 The goal is also to keep track of things that are still unclear.   
 Certificate for the course completion can be found further down. 
 
