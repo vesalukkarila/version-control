@@ -10,6 +10,7 @@ foo             B - C
               /        =>   A - B - C
 main        A              
 ```
+- can also be used to recover a deleted file, from deleted branch: git merge <sha>
 ### 2. Merge (with merge commit, no conflict)
 Two branches, both diverge on different files/lines.
 Best common ancestor exists, a merge commit will be created and it will have two parents, one from each branch.
