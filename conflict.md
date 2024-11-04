@@ -1,1 +1,1 @@
-this line should be preserved after conflict resolved
+this will create a conflict
