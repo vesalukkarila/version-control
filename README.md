@@ -94,3 +94,6 @@ git pull --rebase (git config pull.rebase true): rebase and resolve conflicts ma
 - rebases local commits on top of the remote changes, rewrites commits history
 
 git pull --ff-only (git config pull.ff only): fails if divergents changes, no merge or rebase will occur  
+
+
+![image alt](https://github.com/vesalukkarila/version-control/blob/97284d209e04c130b65e94434aec72ae1facba7c/certificate.png)  
