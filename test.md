@@ -1,2 +1,2 @@
-this line should be preserved after resolving the conflict
+ this line should be preserved after resolving the conflict
 
